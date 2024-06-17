@@ -1,0 +1,5 @@
+# stuffs that airflow output during runtime
+logs/
+unittests.cfg
+.idea
+.venv

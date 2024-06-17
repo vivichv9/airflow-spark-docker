@@ -1,0 +1,7 @@
+apache-airflow[postgres]==2.9.1
+cryptography
+werkzeug
+airflow-code-editor
+black
+fs-s3fs
+fs-gcsfs
