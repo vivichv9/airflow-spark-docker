@@ -5,3 +5,6 @@ airflow-code-editor
 black
 fs-s3fs
 fs-gcsfs
+beautifulsoup4
+lxml
+html5lib

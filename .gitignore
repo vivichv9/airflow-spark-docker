@@ -3,3 +3,4 @@ logs/
 unittests.cfg
 .idea
 .venv
+__pycache__
